@@ -1,0 +1,15 @@
+Concentration,Voltage_mV,Adulterant_Type,Quality
+0:1,952.5,Water,Good
+1:1,1637.3,Water,Good
+2:1,1886.8,Water,Good
+3:1,2153.5,Water,Medium
+4:1,2698.6,Water,Medium
+5:1,2785.9,Water,Poor
+6:1,3035.2,Water,Poor
+1:0,3089,Water,Poor
+0,2306.8,Fe3O4,Good
+0.1,2514.5,Fe3O4,Medium
+0.2,2602.5,Fe3O4,Medium
+0.3,2875.9,Fe3O4,Medium
+0.4,3048.8,Fe3O4,Poor
+0.5,3281.8,Fe3O4,Poor
