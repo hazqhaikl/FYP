@@ -9,7 +9,7 @@ import seaborn as sns
 import joblib
 
 # Define the name of your CSV file
-csv_file_name = 'FYP2.csv'
+csv_file_name = 'FYP.csv'
 
 # --- 1. Load the CSV file ---
 try:
