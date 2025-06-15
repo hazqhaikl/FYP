@@ -36,10 +36,27 @@ This work demonstrates a **low-cost, portable, and robust alternative** to conve
 
 ## 🖥️ Requirements
 
-### Arduino
+- UV-enhanced potentiometric sensor
 - Arduino Uno
 - LM741 Operational Amplifier (non-inverting configuration)
 - 2x16 I2C LCD Display
 - UV Flashlight (395–410 nm)
-- TiO₂-based sensor probe
+- Multimeter
 - Breadboard, resistors, jumper wires
+
+---
+
+## 📈 Results Summary
+
+- Sensor output voltage increases with increasing adulteration
+- Decision Tree Classifier achieved 100% accuracy on test data
+- Clear and interpretable decision rules based on voltage and adulterant type
+- System shows strong potential for on-site honey quality testing
+
+---
+
+## 📦 Future Improvements
+- Expand dataset with different honey types and real-world samples
+- Test with other ML models (Random Forest, SVM, ANN)
+- Integrate full system into a compact, battery-powered portable device
+- Improve wiring and design an enclosure for field use
